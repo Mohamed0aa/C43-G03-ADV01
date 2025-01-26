@@ -34,6 +34,15 @@
 
             //Console.WriteLine(Helper<Employee>.linear_search(employee, new Employee() { Id = 20, Name = "MOHAMED", Salary = 60000 }));
             #endregion
+
+            #region vedio 3
+
+
+            #endregion
+
+
+
+
         }
     }
 }
